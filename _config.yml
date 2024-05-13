@@ -1,3 +1,6 @@
 title: "Rafael Serrano - Perfil"
 baseurl: "/"
-author: "RAFAEL SERRANO"
+author: "rafserran0"
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+theme: jekyll-theme-minimal
