@@ -42,21 +42,14 @@ div {
 }
 
 div ul {
-  list-style-type: circle;
-}
-
-div ul li {
+  ist-style-type: circle;
   display: inline-block;
   margin-right: 10px;
 }
 
-div ul li a {
+li a {
   color: #fff;
   text-decoration: none;
-}
-
-di ul li a:hover {
-  text-decoration: underline;
 }
 
 li a:hover {
