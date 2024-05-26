@@ -23,10 +23,10 @@ header::before {
 
 header img {
   position: absolute;
-  top: 25px;
-  left: 130px;
-  width: 25%;
-  height: 25%;
+  top: 1px;
+  left: 345px;
+  width: 35%;
+  height: 35%;
 }
 header h1 {
   font-size: 24px;
@@ -37,20 +37,20 @@ main {
   float: right;
   background-color: #000;
   color: #fff;
-  margin-top: 30px;
+  margin-top: 0px;
   padding: 15px;
 }
 
 main ul {
-  list-style-type: none;
+  list-style-type: circle;
 }
 
-main li {
+main ul li {
   display: inline-block;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 
-main li a {
+main ul li a {
   color: #fff;
   text-decoration: none;
 }
