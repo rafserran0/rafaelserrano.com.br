@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #000;
 }
 
 /* Cabeçalho */
@@ -23,10 +24,10 @@ header::before {
 
 header img {
   position: absolute;
-  top: 25px;
+  top: 35px;
   left: 335px;
-  width: 35%;
-  height: 35%;
+  width: 45%;
+  height: 45%;
 }
 /* header h1 {
   font-size: 24px;
@@ -37,25 +38,24 @@ main {
   float: right;
   background-color: #000;
   color: #fff;
-  margin-top: 0px;
   padding: 15px;
 }
 
-main section ul {
+ul {
   list-style-type: circle;
 }
 
-main section ul li {
+li {
   display: inline-block;
   margin-right: 10px;
 }
 
-main section ul li a {
+li a {
   color: #fff;
   text-decoration: none;
 }
 
-main section li a:hover {
+li a:hover {
   text-decoration: underline;
 }
 
