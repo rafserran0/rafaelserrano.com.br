@@ -37,6 +37,7 @@ ul {
   color: #fff;
   list-style-type: circle;
   margin-right: 10px;
+  padding: 15px;
 }
 
 li a {
