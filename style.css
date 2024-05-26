@@ -18,14 +18,13 @@ header {
 
 header::before {
   content: "";
-  /* display: block; */
   padding-top: 10.25%; 
 }
 
 header img {
   position: absolute;
   top: 40px;
-  left: 343px;
+  left: 355px;
   width: 50%;
   height: 50%;
 }
@@ -33,17 +32,10 @@ header img {
   font-size: 24px;
   margin-bottom: 10px;*/
 }
-
-div {
-  float: right;
+ul {
   background-color: #000;
   color: #fff;
-  padding: 15px;
-}
-
-ul {
-  ist-style-type: circle;
-  display: inline-block;
+  list-style-type: circle;
   margin-right: 10px;
 }
 
